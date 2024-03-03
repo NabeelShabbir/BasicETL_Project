@@ -1,18 +1,9 @@
+# Project Overview
 
-#Project Overview
-This project involves several key components:
+This project encompasses the following tasks:
 
-#Web Scraping
-Utilizing web scraping techniques to extract information from websites based on specific requirements.
-
-#Data Transformation
-Employing Pandas data frames and dictionaries to manipulate and transform data according to specific needs.
-
-#Data Storage
-Storing processed information both as CSV files and within Database tables.
-
-#Database Querying
-Querying the database tables using SQLite3 and leveraging Pandas libraries for efficient data retrieval and manipulation.
-
-#Logging
-Implementing proper logging mechanisms to track the progress of the code and ensure transparency in execution.
+- Utilizing **Webscraping techniques** to extract information from any website as per requirement.
+- Employing **Pandas data frames** and dictionaries to transform data as per requirement.
+- Loading the processed information to **CSV files** and as **Database tables**.
+- Querying the database tables using **SQLite3** and **pandas libraries**.
+- Properly logging the progress of the code.
